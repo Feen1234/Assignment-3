@@ -1,0 +1,47 @@
+
+  h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight : 300;
+    position : relative;
+    
+    
+  } 
+    
+    .inputs{
+      
+        width : 1920px;
+        height : 1080px;
+        background-color  : rgb(22, 22, 22);
+        text-align: center;
+        z-index: 1;
+        position : relative;
+        top : 30vh;
+        
+    }
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    margin-top: -10px;
+    font-family: -apple-system, BlinkMacSystemFont, "San Francisco", Helvetica, Arial, sans-serif;
+    font-weight:  300; 
+    
+    color : white;
+    background-color  : rgb(22, 22, 22);
+}
+#notice{
+    position : relative;
+    left : 20px;
+}
+
+
+#button_login {
+  position: relative;
+  left : 100px;
+}
+
+.svg{
+  display : block;
+  margin : auto;
+}
